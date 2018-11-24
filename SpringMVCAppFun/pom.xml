@@ -115,7 +115,7 @@
 			<artifactId>heroku-maven-plugin</artifactId>
 			<version>1.1.3</version>
 			<configuration>
-				<appName>warm-fortress-18150</appName>
+				<appName>jennywebapp</appName>
 			</configuration>
 
 		</plugin>
