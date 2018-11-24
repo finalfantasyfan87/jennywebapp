@@ -8,7 +8,7 @@
 	<name>SpringMVCAppFun Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>4.1.1.RELEASE</spring.version>
+		<spring.version>4.3.17</spring.version>
 		<jdk.version>1.8</jdk.version>
 	</properties>
 	<dependencies>
