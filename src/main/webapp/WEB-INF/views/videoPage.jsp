@@ -24,11 +24,6 @@
     <source src="${videos[3]}" type="video/mp4">
 </video>
 
-
-<video width="600" controls>
-    <source src="${videos[4]}" type="video/mp4">
-</video>
-
 <jsp:include page="common/footer.jsp"/>
 
 </body>
