@@ -1,1 +1,1 @@
-web: java -jar target/jennywebppp-0.0.1-SNAPSHOT.war 
+web: java -jar target/jennywebapp-0.0.1-SNAPSHOT.war
